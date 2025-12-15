@@ -1,0 +1,16 @@
+/config_run.yml
+/packages.txt
+results/
+results_old/
+results_test/
+checkpoints/
+wandb/
+log_dir/
+speckle_noise_test.py
+.vscode/
+__pycache__/
+cut/checkpoints
+cut/datasets
+cut/docs
+cut/__pycache__
+.idea/
